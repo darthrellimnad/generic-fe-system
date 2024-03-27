@@ -14,3 +14,4 @@ A generic system diagram for any FE system. Made with [draw.io](https://draw.io/
 - Allison Lu
 - Tanner Heffner
 - Ryan Koch
+- Mitch Saltykov
