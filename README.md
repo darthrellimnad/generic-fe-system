@@ -1,5 +1,5 @@
 # generic-fe-system
-A generic system diagram for any FE system. Made with [draw.io](https://draw.io/).
+A generic system diagram for any Front End (FE) system. Made with [draw.io](https://draw.io/).
 
 ---
 
