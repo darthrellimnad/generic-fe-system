@@ -15,3 +15,4 @@ A generic system diagram for any Front End (FE) system. Made with [draw.io](http
 - Tanner Heffner
 - Ryan Koch
 - Mitch Saltykov
+- Regina Mitchell
