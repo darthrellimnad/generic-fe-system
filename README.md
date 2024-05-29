@@ -3,7 +3,7 @@ A generic system diagram for any Front End (FE) system. Made with [draw.io](http
 
 ---
 
-![Diagram that describes flow of execution in a front-end, digital system. Unidirectional arrows connect 3 main bubbles clockwise in a circle, suggesting a "loop" (from top: "User Interface (UI)", "Async Events" and "Event Stream Processing and State Management (ESPSM)". "Ins" of the system are from human interaction or "Remote Sources", with arrow pointing to "Async Events" bubble.  "Outs" of the system are presented to the user via UI, or otherwise labeled "Side Effects" and connected with an outgoing arrow from "ESPSM" bubble. Check the raw SVG for labels and descriptors.](Generic-FE-System.drawio.svg)
+![Diagram that describes flow of execution in a front-end, digital system. Unidirectional arrows connect 3 main bubbles clockwise in a circle, suggesting a "loop" (from top: "User Interface (UI)", "Async Events" and "Event Stream Processing and State Management (ESPSM)". "Ins" of the system are from human interaction or "Remote Sources", with arrow pointing to "Async Events" bubble.  "Outs" of the system are presented to the user via UI, or otherwise labeled "Side Effects" and connected with an outgoing arrow from "ESPSM" bubble. At the very top, is the human actor (or actors) with a bidirectional arrow connected to UI.  A "UX" bubble labeled "You are here" points to the actor. Check the raw SVG for labels and descriptors.](Generic-FE-System.drawio.svg) 
 
 ---
 
