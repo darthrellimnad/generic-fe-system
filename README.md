@@ -16,3 +16,4 @@ A generic system diagram for any Front End (FE) system. Made with [draw.io](http
 - Ryan Koch
 - Mitch Saltykov
 - Regina Mitchell
+- ...and inspiration from many others
